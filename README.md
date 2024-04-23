@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Irvesp-13
+- 👋 Hi, I’m Irving Espinosa (Irvesp-13).
 - 👀 I’m interested in Multiplatform Software Development.
 - 🌱 I’m currently learning React Vite, MongoDB, React Native.
 - 💞️ I’m looking to collaborate on recognized software projects to have a good CV.
