@@ -1,8 +1,9 @@
 - 👋 Hi, I’m Irving Espinosa (Irvesp-13).
 - 👀 I’m interested in Multiplatform Software Development.
+- 📖 I’m studying the university in Emiliano Zapata Technological University (UTEZ).
 - 🌱 I’m currently learning React Vite, MongoDB, React Native.
 - 💞️ I’m looking to collaborate on recognized software projects to have a good CV.
-- 📫 How to reach me with my email "irv.esp42@gmail.com".
+- 📫 How to reach me with my email "irv.esp42@gmail.com" or my institutional email "20223tn050@utez.edu.mx".
 - ⚡ Fun fact:
     - I like play soccer.
     - I like video games, especially Rocket League.
